@@ -29,8 +29,10 @@ The dataset underwent several cleaning and transformation steps to ensure accura
 
 The cleaned data was used to create a comprehensive dashboard in Power BI. The following visualizations were included:
 
-    Survey Takers by Country: A map visual showing the distribution of survey respondents, with the majority being from the USA.
-    Favorite Programming Language: A bar chart indicating that Python is the most preferred programming language among data professionals.
+    Survey Takers by Country: A map visual showing the distribution of survey respondents, 
+    with the majority being from the USA.
+    Favorite Programming Language: A bar chart indicating that Python is the most preferred 
+    programming language among data professionals.
     Difficulty in Breaking into the Field: A gauge chart showing that most respondents 
     found it neither easy nor difficult to transition into the data field.
     Average Salary by Job Role: A bar chart highlighting that Data Scientists have the highest average salary, 
@@ -48,7 +50,8 @@ The Power BI dashboard provides several key insights:
     Programming Language Preference: Python is the dominant programming language among data professionals.
     Career Transition: Most data professionals found the transition into the field to be of moderate difficulty.
     Salary Trends: Data Scientists earn the highest average salaries, with Data Engineers and Data Architects following closely.
-    Job Satisfaction: The average satisfaction scores indicate room for improvement in salary and work-life balance among data professionals.
+    Job Satisfaction: The average satisfaction scores indicate room for improvement in salary 
+    and work-life balance among data professionals.
     Demographics: The average age of respondents is around 29, indicating a relatively young professional demographic.
 
 ## How to Use
