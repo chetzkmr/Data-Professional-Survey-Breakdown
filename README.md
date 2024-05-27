@@ -31,8 +31,10 @@ The cleaned data was used to create a comprehensive dashboard in Power BI. The f
 
     Survey Takers by Country: A map visual showing the distribution of survey respondents, with the majority being from the USA.
     Favorite Programming Language: A bar chart indicating that Python is the most preferred programming language among data professionals.
-    Difficulty in Breaking into the Field: A gauge chart showing that most respondents found it neither easy nor difficult to transition into the data field.
-    Average Salary by Job Role: A bar chart highlighting that Data Scientists have the highest average salary, followed by Data Engineers and Data Architects.
+    Difficulty in Breaking into the Field: A gauge chart showing that most respondents 
+    found it neither easy nor difficult to transition into the data field.
+    Average Salary by Job Role: A bar chart highlighting that Data Scientists have the highest average salary, 
+    followed by Data Engineers and Data Architects.
     Job Satisfaction Scores:
         Salary satisfaction with an average score of 4.27 out of 10.
         Work-life balance satisfaction with an average score of 5.74 out of 10.
